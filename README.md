@@ -6,9 +6,7 @@ RESEARCHERS 연구자들
 
 **[시연 영상]**
 
-<iframe width="400" height="300" src="https://www.youtube.com/embed/9ub_TI84TyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-@[시연영상](https://www.youtube.com/embed/9ub_TI84TyE)
+[![시연영상](https://www.youtube.com/embed/9ub_TI84TyE.jpg)](https://www.youtube.com/embed/9ub_TI84TyE)
 
 **[작품 소개]**
 
