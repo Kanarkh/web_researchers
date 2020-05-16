@@ -8,6 +8,8 @@ RESEARCHERS 연구자들
 
 <iframe width="400" height="300" src="https://www.youtube.com/embed/9ub_TI84TyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+@[시연영상](https://www.youtube.com/embed/9ub_TI84TyE)
+
 **[작품 소개]**
 
 다양한 전공의 연구자들이 모여 서로 질문도 하고 토론/토의도 하는 커뮤니티 사이트입니다
