@@ -6,7 +6,7 @@ RESEARCHERS 연구자들
 
 **[시연 영상]**
 
-[![시연영상](www.youtube.com/embed/9ub_TI84TyE/0.jpg)](https://www.youtube.com/embed/9ub_TI84TyE)
+[![시연영상](https://img.youtube.com/vi/9ub_TI84TyE/0.jpg)](https://www.youtube.com/embed/9ub_TI84TyE)
 
 **[작품 소개]**
 
